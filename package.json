@@ -1,0 +1,14 @@
+{
+  "name": "swagger-viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Matt Leach <contact@mattleachdigital.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^8.0.0"
+  }
+}
